@@ -16,10 +16,20 @@ There are several locations (MDI, GTTI and The Gambia College ) for these worksh
 The basis for these workshops are to:
 
 1. Come together as a community and support each others growth.
-2. Since Internet connectivity is a big issue in The Gambia, we will meet at a venue with a high speed Internet connection to through the activities on FCC.
+2. Since Internet connectivity is a big issue in The Gambia, we will meet at a venue with a high speed Internet connection to go through some of the activities on FCC.
 3. Ayaat will teach these concepts face to face to cement the concepts at a deeper level.
 
 
+
+## How to get Started
+
+Do the following to get started:
+
+- Clone this repository
+- For each project create a new repository (each project should live in its own repository).
+- Once you complete a project push your final code to GitHub
+- Fill in the project details below the completion date and the URL to the project repository
+- Repeat for each project
 
 ## Projects
 
