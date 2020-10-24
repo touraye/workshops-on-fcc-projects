@@ -1,11 +1,12 @@
 # Workshops on FCC Projects
 
-This is a series of workshops around FreeCodeCamp's projects. Each workshop is a full day event for about two to three days. Here is how it will go;
+This is a series of workshops around [FreeCodeCamp's projects](https://www.freecodecamp.org/learn). Each workshop is a full day event for about two to three days. Here is how it will go;
 
 - We might do one or two workshops for a certification, it depends on the complexity of the projects and the time.
+
 - The first two days will be spent on reviewing the most important concepts  on that certification and the final day will be spent on how to go about solving the projects. All the projects under that certification must be finish and push to GitHub before the next workshop.
 
-
+  
 
 ## Venue
 
@@ -30,6 +31,8 @@ Do the following to get started:
 - Once you complete a project push your final code to GitHub
 - Fill in the project details below the completion date and the URL to the project repository
 - Repeat for each project
+
+
 
 ## Projects
 
