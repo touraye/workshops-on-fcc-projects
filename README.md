@@ -26,10 +26,10 @@ The basis for these workshops are to:
 
 Do the following to get started:
 
-- Clone this repository
+- Fork this repository
 - For each project create a new repository (each project should live in its own repository).
 - Once you complete a project push your final code to GitHub
-- Fill in the project details below the completion date and the URL to the project repository
+- Got to your forked version of this workshop and fill in the project details below. (the completion date and the URL to the project repository)
 - Repeat for each project
 
 
