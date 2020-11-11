@@ -30,6 +30,7 @@ Do the following to get started:
 - For each project create a new repository (each project should live in its own repository).
 - Once you complete a project push your final code to GitHub
 - Got to your forked version of this workshop and fill in the project details below. (the completion date and the URL to the project repository)
+- Push it up
 - Repeat for each project
 
 
@@ -52,13 +53,13 @@ The projects are group into their various certifications just as in FCC
 
 ### JavaScript Algorithms and Data Structures Certification (300 hours)
 
-| #    | Project                    | Complete Date | GitHub Repo URL |
-| ---- | -------------------------- | ------------- | --------------- |
-| 1    | Palindrome Checker         |               |                 |
-| 2    | Roman Numeral Converter    |               |                 |
-| 3    | Caesars Cipher             |               |                 |
-| 4    | Telephone Number Validator |               |                 |
-| 5    | Cash Register              |               |                 |
+| #    | Project                    | Complete Date | GitHub Repo URL                                              |
+| ---- | -------------------------- | ------------- | ------------------------------------------------------------ |
+| 1    | Palindrome Checker         | 10-Nov-2020   | [See Code - GitHub](https://github.com/aayaat/Palindrome-Checker) |
+| 2    | Roman Numeral Converter    |               |                                                              |
+| 3    | Caesars Cipher             |               |                                                              |
+| 4    | Telephone Number Validator |               |                                                              |
+| 5    | Cash Register              |               |                                                              |
 
 
 
