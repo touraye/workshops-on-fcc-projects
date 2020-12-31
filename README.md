@@ -41,25 +41,25 @@ The projects are group into their various certifications just as in FCC
 
 ### Responsive Web Design Certification (300 hours)
 
-| #    | Project                              | Complete Date | GitHub Repo URL |
-| ---- | ------------------------------------ | ------------- | --------------- |
-| 1    | Build a Tribute Page                 |               |                 |
-| 2    | Build a Survey Form                  |               |                 |
-| 3    | Build a Product Landing Page         |               |                 |
-| 4    | Build a Technical Documentation Page |               |                 |
-| 5    | Build a Personal Portfolio Webpage   |               |                 |
+| #    | Project                              | Complete Date | GitHub Repo URL                                              |
+| ---- | ------------------------------------ | ------------- | ------------------------------------------------------------ |
+| 1    | Build a Tribute Page                 | 18-Feb-2020   | [See Code - GitHub](https://github.com/touraye/Build-a-Tribute-Page) |
+| 2    | Build a Survey Form                  | 12-Apr-2020   | [See Code - GitHub](https://github.com/touraye/Buil-a-Survey-Form) |
+| 3    | Build a Product Landing Page         | 9-May-2020    | [See Code - GitHub](https://github.com/touraye/Build-a-production-landing-page) |
+| 4    | Build a Technical Documentation Page | 10-May-2020   | [See Code - GitHub](https://github.com/touraye/Build-a-technical-documentation-page) |
+| 5    | Build a Personal Portfolio Webpage   | 11-May-2020   | [See Code - GitHub](https://github.com/touraye/Build-a-personal-portfolio-page) |
 
 
 
 ### JavaScript Algorithms and Data Structures Certification (300 hours)
 
-| #    | Project                    | Complete Date | GitHub Repo URL                                              |
-| ---- | -------------------------- | ------------- | ------------------------------------------------------------ |
-| 1    | Palindrome Checker         | 10-Nov-2020   | [See Code - GitHub](https://github.com/aayaat/Palindrome-Checker) |
-| 2    | Roman Numeral Converter    |               |                                                              |
-| 3    | Caesars Cipher             |               |                                                              |
-| 4    | Telephone Number Validator |               |                                                              |
-| 5    | Cash Register              |               |                                                              |
+| #    | Project                    | Complete Date | GitHub Repo URL |
+| ---- | -------------------------- | ------------- | --------------- |
+| 1    | Palindrome Checker         |               |                 |
+| 2    | Roman Numeral Converter    |               |                 |
+| 3    | Caesars Cipher             |               |                 |
+| 4    | Telephone Number Validator |               |                 |
+| 5    | Cash Register              |               |                 |
 
 
 
